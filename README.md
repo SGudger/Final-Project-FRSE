@@ -47,4 +47,5 @@ The first section handles the users input
 The second section handles the individual methods
 Solutions:
 The event problem can’t be fixed because there is no way to account for all the different ways and languages that someone could enter a day or time into the program (ex. Math Class at Monday 9:00 PM and Clase de matemáticas el lunes a las 21:00 mean the same thing, but the program wouldn’t know this without a massive amount of data needing to be added)
+
 The user will be told about these limitations in the ReadMe File.
