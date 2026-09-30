@@ -3,9 +3,13 @@ Problem Statement -
 Students may have a hard time keep track of their schedules due to school or other planned events.
 
 Target Users -
+
 College Students
+
 High School students
+
 Faculty 
+
 Anyone who needs to stay organized
 
 Proposed Solution -
